@@ -5,8 +5,8 @@ Project Doc: http://softdevers.blogspot.com/2011/06/advance-java-course-work-und
 
 Database informationa
 =====================
-DatabaseName: bicycle
-UserName: admin
+DatabaseName: bicycle<br>
+UserName: admin<br>
 Password: admin
 
 Change this file: setup/sun-resources.xml
@@ -17,5 +17,5 @@ Database sql backup added as bicycle.sql
 
 font end login info
 ===================
-Admin user login info: username: root password: 1234
+Admin user login info: username: root password: 1234<br>
 normal user login info: username: alam password: diit1234
